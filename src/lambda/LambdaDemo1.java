@@ -33,10 +33,10 @@ public class LambdaDemo1 {
 		 * ¿ÉÒÔÊ¡ÂÔ
 		 */
 //		Runnable r3 = () ->System.out.println("hello3");
-		Thread t3 = new Thread(
-				() ->System.out.println("hello3")
-		);
-		t3.start();
+//		Thread t3 = new Thread(
+//				() ->System.out.println("hello3")
+//		);
+//		t3.start();
 			
 	}
 }
